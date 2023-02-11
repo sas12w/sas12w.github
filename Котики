@@ -1,0 +1,56 @@
+<html>
+    <head>
+        <title>Котики</title>
+        <link rel="stylesheet"href="style.css"/>
+    </head>
+<body>
+<header>
+       
+      <nav>
+          <p> <img src="https://oir.mobi/uploads/posts/2022-09/thumbs/1662168855_45-oir-mobi-p-smeshnie-mordi-kotov-krasivo-56.jpg"/>
+    <a href="">Галерея</a></p>
+    </nav>
+    <h1>Котики</h1>
+</header>
+<main>
+    <h2>Все о котиках</h2>
+    <h3>Життя марно прожите,у тих, хто не мав кота...</h3>
+   <h4> <p>Людині потрібний кіт.
+Кіт його завжди зрозуміє,
+Навіть якщо складний випадок
+у житті раптом станеться.</p>
+<p>
+Навіть якщо кине друг,
+кіт не вислизне з рук,
+гладь його, і він зігріє,
+немов плюшева праска.</p>
+<p>
+Якщо сумно на душі,
+впади в котячу вовну,
+по вуха в неї заройся,
+і вгамується круговерть.</p>
+<p>
+Людині потрібний кіт.
+Обов'язково потрібний кіт.
+Щоб йти додому хотілося,
+бо хтось чекає.</p></h4>
+<table>
+    <tr>
+        <td rowspan="2">
+            <img class="pp" src="https://oir.mobi/uploads/posts/2021-05/1621835899_4-oir_mobi-p-smeshnie-mordochki-koshek-zhivotnie-krasiv-5.jpg"/>
+        </td>
+        <td><img class="ii" src="https://answiki.org.ua/uploads/posts/2014-11/1415105720_koshenyatka.jpg"/></td>
+        <td><img class="uu" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU2cgey8jXM3Cw5-Tj5PzEKqVhL3BwTCWRQw&usqp=CAU"/></td>
+    </tr>
+    <tr>
+
+    <td><img class="tt" src="https://zoocomplex.com.ua/image/catalog/blog/article-id-545/article-id-545-02.jpg"/></td>
+    <td><img class="oo" src="https://st.depositphotos.com/1000152/2398/i/450/depositphotos_23986869-stock-photo-kitten-sleeps.jpg"/></td>
+    </tr>
+</table>
+</main>
+<footer>
+    <h1>Контакти:+380875784334</h1>
+</footer>
+</body>
+</html>
